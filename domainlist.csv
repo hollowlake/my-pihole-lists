@@ -2,3 +2,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 1,0,fonts.gstatic.com,1,1626146165,1626146165,"Added from Query Log"
 2,0,edge-mqtt.facebook.com,1,1626146195,1626146195,"Added from Query Log"
 4,0,gstaticadssl.l.google.com,1,1626147650,1626147650,"Added from Query Log"
+5,0,debain.pool.ntp.org,1,1626593407,1626593407,
