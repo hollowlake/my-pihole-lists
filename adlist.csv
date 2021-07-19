@@ -34,3 +34,9 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 76,https://v.firebog.net/hosts/Shalla-mal.txt,1,1626632127,1626632127,,1626632206,19234,0,1
 79,https://urlhaus.abuse.ch/downloads/hostfile/,1,1626632127,1626632127,,1626632208,1045,0,1
 80,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1626632127,1626632127,,1626632210,3548,0,1
+81,https://abp.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
+82,https://dbl.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
+83,https://dblw.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
+84,https://hosts.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
+85,https://dnsmasq.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
+86,https://rpz.oisd.nl/basic/,1,1626657204,1626657204,"Added to test Crontab Job",,0,0,0
