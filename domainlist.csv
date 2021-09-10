@@ -2,4 +2,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 1,0,fonts.gstatic.com,1,1626146165,1626146165,"Added from Query Log"
 2,0,edge-mqtt.facebook.com,1,1626146195,1626146195,"Added from Query Log"
 4,0,gstaticadssl.l.google.com,1,1626147650,1626147650,"Added from Query Log"
-5,0,debain.pool.ntp.org,1,1626593407,1626593407,
+5,0,debain.pool.ntp.org,1,1626593407,1626593407,""
+6,2,(\.|^)click\.service\.ccpgames\.com$,1,1628038771,1628038771,
+7,1,googleadservices.com,1,1630201455,1630201455,
+8,3,(\.|^)googleadservices\.com$,1,1631069497,1631069497,
